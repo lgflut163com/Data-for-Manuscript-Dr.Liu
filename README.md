@@ -1,2 +1,2 @@
 # Data-for-Manuscript-Dr.Liu
-Main data for supporting this work
+This repository contains the experimental and characterization data supporting our work on the selective laser melting of bimodal-structured 2024Al alloy with enhanced strength-ductility synergy through duplex reinforcements.
